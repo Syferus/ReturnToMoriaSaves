@@ -1,4 +1,4 @@
-# Middle-Earth Saga: Return to Moria Shared Save Repository
+# Return to Moria Shared Save Repository
 
 Hail, Fellow Adventurers of Middle-Earth! Welcome to the hallowed grounds of our shared repository, where the essence of our collective journey through the mystic lands of Moria is chronicled and safeguarded.
 
