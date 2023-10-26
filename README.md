@@ -23,19 +23,42 @@ Replace `[USERNAMEHERE]` with thy name, O keeper of worlds.
 
 ## The Lineage of Branches
 
-The `main` branch, noble and true, holds the latest tale of our adventures in its heart. As the chosen host, thou shalt draw from its wisdom before and after each gathering:
+The `main` branch, noble and true, holds the latest tale of our adventures in its heart. As the chosen host, thou shalt heed the ancient rites before drawing from its wisdom:
+
+1. Before summoning the essence of our shared journey from the repository, thou must ensure the `SaveGames` chamber is bereft of previous chronicles. Move thy local files to a safe haven:
+
+```bash
+# Create a haven for thy current tales
+mkdir -p ~/MoriaBackup
+mv C:\Users\[USERNAMEHERE]\AppData\Local\Moria\Saved\SaveGames\* ~/MoriaBackup
+```
+
+2. With the chamber cleared, thou art now ready to summon the shared lore:
 
 ```bash
 # Ere the gathering:
 git pull origin main
+```
 
+3. Once the shared lore is summoned, thou may restore thy personal chronicles to the `SaveGames` chamber:
+
+```bash
+# Restore thy personal tales
+mv ~/MoriaBackup/* C:\Users\[USERNAMEHERE]\AppData\Local\Moria\Saved\SaveGames
+```
+
+4. Following the gathering's end, inscribe the new tales and share them with the fellowship:
+
+```bash
 # Following the gathering's end:
 git add .
 git commit -m "Tales of our journey on [DATE]"
 git push origin main
 ```
 
-Replace `[DATE]` with the day of our fellowship's assembly.
+Replace `[USERNAMEHERE]` with thy name, O keeper of worlds, and `[DATE]` with the day of our fellowship's assembly.
+
+May the clear path and shared lore guide thee and thy fellowship through the enchanting halls of Moria!
 
 ## The Scrolls of Exclusion
 
