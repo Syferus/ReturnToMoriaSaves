@@ -1,2 +1,5 @@
-MC_*.sav
-Options*.sav
+# Enshroud all files in shadows
+*
+
+# But let this chosen chronicle bask in the light
+!MW_CA0D1BEC4DB885C03B96F89B3AA5D751.sav
