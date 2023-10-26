@@ -33,11 +33,14 @@ mkdir -p ~/MoriaBackup
 mv C:\Users\[USERNAMEHERE]\AppData\Local\Moria\Saved\SaveGames\* ~/MoriaBackup
 ```
 
-2. With the chamber cleared, thou art now ready to summon the shared lore:
+2. Now, navigate to the `SaveGames` chamber and summon the shared lore from the abyss of the repository:
 
 ```bash
+# Venture into the SaveGames chamber
+cd C:\Users\[USERNAMEHERE]\AppData\Local\Moria\Saved\SaveGames
+
 # Ere the gathering:
-git pull origin main
+git clone https://github.com/Syferus/ReturnToMoriaSaves.git .
 ```
 
 3. Once the shared lore is summoned, thou may restore thy personal chronicles to the `SaveGames` chamber:
