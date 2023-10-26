@@ -50,6 +50,3 @@ While the primary goal of this repository is to sync the world save, any suggest
 For any queries or issues related to this repository or the save sync process, please contact the repository administrator or open an issue here.
 
 Embark on your adventures in Middle-Earth with peace of mind, knowing your shared world remains synchronized!
-```
-
-In this updated version, I've incorporated the correct `.gitignore` content and made some improvements to ensure clarity, engagement, and a comprehensive understanding of the repository's setup and usage.
