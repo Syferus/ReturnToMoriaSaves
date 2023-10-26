@@ -1,4 +1,3 @@
-```markdown
 # Lord of the Rings: Return to Moria Shared Save Repository
 
 Welcome to the shared save game repository for Lord of the Rings: Return to Moria! This repository facilitates the synchronization of the world save game file among all players, ensuring a coherent and updated game state for every session.
