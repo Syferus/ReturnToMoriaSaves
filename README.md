@@ -65,11 +65,14 @@ May the clear path and shared lore guide thee and thy fellowship through the enc
 
 ## The Scrolls of Exclusion
 
-Within the ancient `.gitignore` scroll, lies the runes that shield our personal chronicles from the eyes of others:
+In the ancient `.gitignore` scroll, runes are inscribed to shroud all but the chosen chronicle from the gaze of Git. Only the file `MW_CA0D1BEC4DB885C03B96F89B3AA5D751.sav` is granted passage through the veil of ignorance to partake in the grand tale of our fellowship.
 
 ```plaintext
-MC_*.sav
-Options*.sav
+# Enshroud all files in shadows
+*
+
+# But let this chosen chronicle bask in the light
+!MW_CA0D1BEC4DB885C03B96F89B3AA5D751.sav
 ```
 
 ## The Council of Contribution
