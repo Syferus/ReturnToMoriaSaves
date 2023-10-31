@@ -4,12 +4,35 @@ Hail, Fellow Adventurers of Middle-Earth! Welcome to the hallowed grounds of our
 
 ## Table of Contents
 
+- [Preparing Thy Machine for the Shared Chronicle](#preparing-thy-machine-for-the-shared-chronicle)
 - [The Path to the Repository](#the-path-to-the-repository)
 - [The Lineage of Branches](#the-lineage-of-branches)
 - [The Scrolls of Exclusion](#the-scrolls-of-exclusion)
 - [The Council of Contribution](#the-council-of-contribution)
 - [Summoning Aid](#summoning-aid)
 - [Tales of Yore (FAQs)](#tales-of-yore-faqs)
+
+## Preparing Thy Machine for the Shared Chronicle
+
+Before venturing forth, thou must disable the cloud save feature within the Epic Games launcher, for it meddles with the essence of our shared lore. Be forewarned, this act shall disable cloud saves for all thy games, not merely Return to Moria.
+
+1. Launch the Epic Games launcher and navigate to the `Settings` menu.
+2. Scroll down to the `Manage Games` section and expand it.
+3. Disable the `Enable Cloud Saves` checkbox.
+
+With the cloud's fleeting whispers silenced, thou art now ready to partake in the shared tale of Return to Moria.
+
+## The Scrolls of Exclusion
+
+In the ancient `.gitignore` scroll, runes are inscribed to shroud all but the chosen chronicle from the gaze of Git. Only the file `MW_CA0D1BEC4DB885C03B96F89B3AA5D751.sav` is granted passage through the veil of ignorance to partake in the grand tale of our fellowship.
+
+```plaintext
+# Enshroud all files in shadows
+*
+
+# But let this chosen chronicle bask in the light
+!MW_CA0D1BEC4DB885C03B96F89B3AA5D751.sav
+
 
 ## The Path to the Repository
 
