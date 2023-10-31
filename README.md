@@ -17,7 +17,7 @@ Hail, Fellow Adventurers of Middle-Earth! Welcome to the hallowed grounds of our
 Before venturing forth, thou must disable the cloud save feature within the Epic Games launcher, for it meddles with the essence of our shared lore. Be forewarned, this act shall disable cloud saves for all thy games, not merely Return to Moria.
 
 1. Launch the Epic Games launcher and navigate to the `Settings` menu.
-2. Scroll down to `Preferences` and disable the `Enable Cloud Saves` checkbox.
+2. Scroll to `Preferences` and disable the `Enable Cloud Saves` checkbox.
 
 With the cloud's fleeting whispers silenced, thou art now ready to partake in the shared tale of Return to Moria.
 
